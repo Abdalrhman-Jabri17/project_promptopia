@@ -3,8 +3,7 @@
 Promptopia is a modern, full-stack web application designed to be the ultimate discovery and sharing platform for AI prompts. Discover powerful prompts for ChatGPT, DALL-E, Midjourney, and other AI tools, or share your own creations with a community of innovators.
 
 ![Promptopia Screenshot](https://via.placeholder.com/800x400.png?text=Promptopia+Screenshot+Here) 
-*<img width="1920" height="940" alt="Screenshot (109)" src="https://github.com/user-attachments/assets/07daf4a0-a7ce-4453-a9a1-93333c48b3c0" />
-*
+<img width="1920" height="940" alt="Screenshot (109)" src="https://github.com/user-attachments/assets/07daf4a0-a7ce-4453-a9a1-93333c48b3c0" />
 
 ## ✨ Features
 
